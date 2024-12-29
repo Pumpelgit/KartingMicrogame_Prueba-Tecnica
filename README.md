@@ -14,7 +14,7 @@ En la barra superior de menus de Unity en el apartado de *Karting* encontramos u
 
 ## Controles
 Al mantener el dedo tocando la pantalla saldrá un circulo que al moverlo moverá el Kart en la dirección que se elija.
-
+IMPORTANTE: Si se va a probar el proyecto en Unity con las teclas de WASD que estaban puestas inicialmente hay que volver a añadir el script de KeyboardInput.cs al Kart y quitar el MobileInput.cs
 
 ## Instalación
 Descargar el proyecto y abrir con la version 2021.3.10f1 de Unity.
